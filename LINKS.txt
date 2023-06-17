@@ -1,3 +1,8 @@
+# To run landoop on Mac M1 chip
+
+https://github.com/lensesio/fast-data-dev/issues/175#issuecomment-947001807
+
+
 https://github.com/simplesteph
 
 https://www.confluent.io/blog/creating-data-pipeline-kafka-connect-api-architecture-operations/
